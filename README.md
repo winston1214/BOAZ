@@ -16,3 +16,5 @@
  - 6 week : <a href='https://github.com/winston1214/BOAZ/tree/master/Study-DL_from_scratch/6week'>CNN</a>
  - 7 week : <a href='https://github.com/winston1214/BOAZ/blob/master/Study-DL_from_scratch/7week/Chapter8_Presentation.pdf'>Deep Learning(My Presentation!!)</a>, <a href='https://github.com/winston1214/BOAZ/blob/master/Study-DL_from_scratch/7week/%ED%9B%84%EB%B0%98%EB%B6%80%EC%A0%95%EB%A6%AC.pdf'>Chapter6~8 Review</a>
  
+## Base Section on Semester
+#### Part : Image Generation(me!✋), Image Classification, Image Segementation, Object Detection, NLP
