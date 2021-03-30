@@ -18,3 +18,11 @@
  
 ## Base Section on Semester
 #### Part : Image Generation(me!✋), Image Classification, Image Segementation, Object Detection, NLP
+- 1 week 
+  - Image Generation : 📖<a href='https://github.com/winston1214/BOAZ/blob/master/Paper_Review/Image_Generation/1week/paper/Deep%20Residual%20Learning%20for%20Image%20Recognition(ResNet).pdf'>ResNet Paper</a>, 💬<a href='https://bigdata-analyst.tistory.com/263'>ReNet Description Blog</a>, 📊<a href='https://github.com/winston1214/BOAZ/blob/master/Paper_Review/Image_Generation/1week/presentation/ResNet_presentation.pdf'>ResNet Presentation</a>
+  - Image Classification : 📖<a href='https://github.com/winston1214/BOAZ/blob/master/Paper_Review/Image_Classification/1week/Densely%20Connected%20Convolutional%20Networks.pdf'>DenseNet</a>, <a href='https://holygangsky.tistory.com/3'>DenseNet Description Blog</a>,<a href='https://github.com/winston1214/BOAZ/blob/master/Paper_Review/Image_Classification/1week/Densenet%20%EB%B0%9C%ED%91%9C.pdf'>DenseNet Presentation</a>
+  - Image Segmentation : <a href='https://bigdata-ha.tistory.com/14'>Inception(a.k.a GoogleNet) Description Blog</a>, <a href='https://github.com/winston1214/BOAZ/blob/master/Paper_Review/Image_Segmentation/1week/presentation/Going%20Deeper%20into%20Convolution.pdf'>Inception Presentation</a>
+  - Obeject Detection : <a href='https://ysbstudy.tistory.com/7?category=848311'>VGGNet Description Blog <a href='https://github.com/winston1214/BOAZ/blob/master/Paper_Review/Object_Detection/1week/presentation/Detection_VGG%20%EB%85%BC%EB%AC%B8%EB%A6%AC%EB%B7%B0.pdf'>VGGNet Presentation</a>
+  - NLP(1) : <a href=https://github.com/hello-im-yj/Boaz-Paper/blob/main/nlp/FastText-Enriching_Word_Vectors_with_Subword_Information.pdf>FastText Description Blog(github pdf)</a>, <a href='https://github.com/winston1214/BOAZ/blob/master/Paper_Review/NLP/1week/presentation/FastText.pdf'>FastText Description Presentation</a>
+  - NLP(2) : <a href='https://hul980.tistory.com/35'>Word2Vec Description Blog</a>, <a href='https://github.com/winston1214/BOAZ/blob/master/Paper_Review/NLP/1week/presentation/Efficient%20Estimation%20of%20Word%20Representations%20in%20Vector%20Space.pdf'>Word2Vec Description Presentation</a>
+
