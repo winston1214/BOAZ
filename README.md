@@ -16,7 +16,7 @@
  - 6 week : <a href='https://github.com/winston1214/BOAZ/tree/master/Study-DL_from_scratch/6week'>CNN</a>
  - 7 week : <a href='https://github.com/winston1214/BOAZ/blob/master/Study-DL_from_scratch/7week/Chapter8_Presentation.pdf'>Deep Learning(My Presentation!!)</a>, <a href='https://github.com/winston1214/BOAZ/blob/master/Study-DL_from_scratch/7week/%ED%9B%84%EB%B0%98%EB%B6%80%EC%A0%95%EB%A6%AC.pdf'>Chapter6~8 Review</a>
  
-## Base Section on Semester
+## Base Section on Semester(2021.3.18~2021.5.20)
 #### Part : Image Generation(me!✋), Image Classification, Image Segementation, Object Detection, NLP
 - 1 week 
   - Image Generation : 📖<a href='https://github.com/winston1214/BOAZ/blob/master/Paper_Review/Image_Generation/1week/paper/Deep%20Residual%20Learning%20for%20Image%20Recognition(ResNet).pdf'>ResNet Paper</a>, 💬<a href='https://bigdata-analyst.tistory.com/263'>ReNet Description Blog</a>, 📊<a href='https://github.com/winston1214/BOAZ/blob/master/Paper_Review/Image_Generation/1week/presentation/ResNet_presentation.pdf'>ResNet Presentation</a>
