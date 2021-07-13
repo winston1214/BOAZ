@@ -1,4 +1,4 @@
-## Base Section on vacation(2021.1.14~2021.3.14)
+# Base Section on vacation(2021.1.14~2021.3.14)
  - 1 week : <a href='https://github.com/winston1214/BOAZ/blob/master/Base_Section/1week/BOAZ%2016%EA%B8%B0%20%EB%B6%84%EC%84%9D(1%EC%A3%BC%EC%B0%A8).ipynb'>python review</a>
  - 2 week : <a href='https://github.com/winston1214/BOAZ/blob/master/Base_Section/2week/Overfitting.pdf'>Overfitting</a> & <a href='https://github.com/winston1214/BOAZ/blob/master/Base_Section/2week/%ED%9A%8C%EA%B7%80.pdf'>Regression</a>
  - 3 week : <a href='https://github.com/winston1214/BOAZ/blob/master/Base_Section/3week/16%EA%B8%B0%20%EB%B2%A0%EC%9D%B4%EC%8A%A4%203%EC%A3%BC%EC%B0%A8%20%EB%B0%9C%ED%91%9C%20_%20decisiontree%20_%2015%EA%B8%B0%20%EB%B6%84%EC%84%9D%20%EC%9D%B4%EC%9C%A4%EC%A0%95.pdf'>Decision Tree</a> & <a href='https://github.com/winston1214/BOAZ/blob/master/Base_Section/3week/16%EA%B8%B0%20%EB%B6%84%EC%84%9D%203%EC%A3%BC%EC%B0%A8%20%EC%84%B8%EC%85%98%20%EB%B0%9C%ED%91%9C-2.pdf'>Ensemble</a>
