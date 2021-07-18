@@ -41,3 +41,5 @@
 
 ## Summer Vacation Study
 ### Study of <a href='https://www.youtube.com/playlist?list=PLSAJwo7mw8jn8iaXwT4MqLbZnS-LJwnBd'>Standalone DeepLearning</a>
+- 1week : <a href='https://github.com/winston1214/BOAZ/blob/master/Study_Summer_vacation/1week/1%EC%A3%BC%EC%B0%A8(2%2C%203%2C%204)_%EA%B3%BD%EB%AF%BC%EC%A7%80.pdf'>Linear Regression presentation</a>
+- 2week : <a href='https://bigdata-analyst.tistory.com/272'>Binary,Multinomial Classification Description Blog</a>
