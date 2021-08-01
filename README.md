@@ -42,5 +42,5 @@
 ## Summer Vacation Study
 ### Study of <a href='https://www.youtube.com/playlist?list=PLSAJwo7mw8jn8iaXwT4MqLbZnS-LJwnBd'>Standalone DeepLearning</a>
 - 1week : 📊<a href='https://github.com/winston1214/BOAZ/blob/master/Study_Summer_vacation/1week/1%EC%A3%BC%EC%B0%A8(2%2C%203%2C%204)_%EA%B3%BD%EB%AF%BC%EC%A7%80.pdf'>Linear Regression presentation</a>
-- 2week : 💬<a href='https://bigdata-analyst.tistory.com/272'>Binary,Multinomial Classification Description Blog</a>, 📊 <a href=''>2week presentation</a>
+- 2week : 💬<a href='https://bigdata-analyst.tistory.com/272'>Binary,Multinomial Classification Description Blog</a>, 📊 <a href='https://github.com/winston1214/BOAZ/blob/master/Study_Summer_vacation/2week/week2_classification_%EA%B3%BD%EC%9C%A4%EA%B2%BD.pdf'>2week presentation</a>
 - 3week : 💬<a href='https://bigdata-analyst.tistory.com/280'>How to parameterize DL code(argparse) - Description Blog</a>📊 <a href='https://github.com/winston1214/BOAZ/blob/master/Study_Summer_vacation/3week/week3_DL%2BMLP_%EC%A1%B0%EC%88%98%EC%97%B0.pdf'>3week presentation</a>
