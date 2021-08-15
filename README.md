@@ -46,4 +46,4 @@
 - 3week : 💬<a href='https://bigdata-analyst.tistory.com/280'>How to parameterize DL code(argparse) - Description Blog</a>📊 <a href='https://github.com/winston1214/BOAZ/blob/master/Study_Summer_vacation/3week/week3_DL%2BMLP_%EC%A1%B0%EC%88%98%EC%97%B0.pdf'>3week presentation</a>
 - 4week : 📊<a href='https://github.com/winston1214/BOAZ/blob/master/Study_Summer_vacation/4week/week4_%EC%97%AC%ED%95%B4%EC%9D%B8.pdf'>4week presentation</a>
 - 5week : 📊<a href='https://github.com/winston1214/BOAZ/blob/master/Study_Summer_vacation/5week/Standalone_DL_%EA%B9%80%EC%98%81%EB%AF%BC_5week.pdf'>5week presentation</a>
-- 6week : 💬<a href='https://bigdata-analyst.tistory.com/285'>Kind of Optimizer</a>
+- 6week : 💬<a href='https://bigdata-analyst.tistory.com/285'>Kind of Optimizer</a>, 💬<a href='https://bigdata-analyst.tistory.com/286'>Basic of CNN</a>
